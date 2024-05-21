@@ -2,3 +2,5 @@
 /Packages
 xcuserdata
 project.xcworkspace
+.DS_Store
+*/.DS_Store
